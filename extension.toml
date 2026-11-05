@@ -1,14 +1,14 @@
 # Python: highlighting from a Tree-sitter grammar compiled to WebAssembly, and
-# Pyright. No code. See docs/extensions.md#languages.
-id = "ferrite.python"
+# Pyright. No code. See Flareite's docs/extensions.md#languages.
+id = "flareite.python"
 name = "Python"
 version = "0.1.0"
 description = "Python highlighting, and Pyright for diagnostics, hover, definitions, and completion."
-author = "Ferrite"
+author = "Flareite"
 api_version = "1"
 
 [engines]
-ferrite = ">=0.1.0"
+flareite = ">=0.1.0"
 
 [permissions]
 language_servers = true
