@@ -2,10 +2,10 @@
 # Pyright. No code. See Flareite's docs/extensions.md#languages.
 id = "flareite.python"
 name = "Python"
-version = "0.2.0"
+version = "1.0.0"
 description = "Python highlighting, and Pyright for diagnostics, hover, definitions, and completion."
 author = "Flareite"
-api_version = "1"
+api_version = "2"
 
 [engines]
 flareite = ">=0.1.0"
